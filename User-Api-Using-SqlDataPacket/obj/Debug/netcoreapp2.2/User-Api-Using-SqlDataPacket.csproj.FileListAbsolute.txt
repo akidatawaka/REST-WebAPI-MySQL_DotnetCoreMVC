@@ -1,0 +1,14 @@
+C:\Users\AkidaTawaka\source\repos\User-Api-Using-SqlDataPacket\User-Api-Using-SqlDataPacket\bin\Debug\netcoreapp2.2\User-Api-Using-SqlDataPacket.deps.json
+C:\Users\AkidaTawaka\source\repos\User-Api-Using-SqlDataPacket\User-Api-Using-SqlDataPacket\bin\Debug\netcoreapp2.2\User-Api-Using-SqlDataPacket.runtimeconfig.json
+C:\Users\AkidaTawaka\source\repos\User-Api-Using-SqlDataPacket\User-Api-Using-SqlDataPacket\bin\Debug\netcoreapp2.2\User-Api-Using-SqlDataPacket.runtimeconfig.dev.json
+C:\Users\AkidaTawaka\source\repos\User-Api-Using-SqlDataPacket\User-Api-Using-SqlDataPacket\bin\Debug\netcoreapp2.2\User-Api-Using-SqlDataPacket.dll
+C:\Users\AkidaTawaka\source\repos\User-Api-Using-SqlDataPacket\User-Api-Using-SqlDataPacket\obj\Debug\netcoreapp2.2\User-Api-Using-SqlDataPacket.csprojAssemblyReference.cache
+C:\Users\AkidaTawaka\source\repos\User-Api-Using-SqlDataPacket\User-Api-Using-SqlDataPacket\obj\Debug\netcoreapp2.2\User-Api-Using-SqlDataPacket.csproj.CoreCompileInputs.cache
+C:\Users\AkidaTawaka\source\repos\User-Api-Using-SqlDataPacket\User-Api-Using-SqlDataPacket\obj\Debug\netcoreapp2.2\User-Api-Using-SqlDataPacket.RazorAssemblyInfo.cache
+C:\Users\AkidaTawaka\source\repos\User-Api-Using-SqlDataPacket\User-Api-Using-SqlDataPacket\obj\Debug\netcoreapp2.2\User-Api-Using-SqlDataPacket.RazorAssemblyInfo.cs
+C:\Users\AkidaTawaka\source\repos\User-Api-Using-SqlDataPacket\User-Api-Using-SqlDataPacket\obj\Debug\netcoreapp2.2\User-Api-Using-SqlDataPacket.AssemblyInfoInputs.cache
+C:\Users\AkidaTawaka\source\repos\User-Api-Using-SqlDataPacket\User-Api-Using-SqlDataPacket\obj\Debug\netcoreapp2.2\User-Api-Using-SqlDataPacket.AssemblyInfo.cs
+C:\Users\AkidaTawaka\source\repos\User-Api-Using-SqlDataPacket\User-Api-Using-SqlDataPacket\obj\Debug\netcoreapp2.2\User-Api-Using-SqlDataPacket.RazorTargetAssemblyInfo.cache
+C:\Users\AkidaTawaka\source\repos\User-Api-Using-SqlDataPacket\User-Api-Using-SqlDataPacket\bin\Debug\netcoreapp2.2\User-Api-Using-SqlDataPacket.pdb
+C:\Users\AkidaTawaka\source\repos\User-Api-Using-SqlDataPacket\User-Api-Using-SqlDataPacket\obj\Debug\netcoreapp2.2\User-Api-Using-SqlDataPacket.dll
+C:\Users\AkidaTawaka\source\repos\User-Api-Using-SqlDataPacket\User-Api-Using-SqlDataPacket\obj\Debug\netcoreapp2.2\User-Api-Using-SqlDataPacket.pdb
